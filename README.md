@@ -13,4 +13,5 @@ Currently, two official plugins are available:
 - save history using the local storage
 - handle form events and catch errors
 - implement copy to clipboard
-![Uploading Screenshot (21).png…]()
+  
+- ![Screenshot (21)](https://github.com/RRashmipanda/Sumz/assets/140526128/053e1686-3898-41c3-853c-9f5db3165c97)
