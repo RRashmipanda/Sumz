@@ -13,3 +13,4 @@ Currently, two official plugins are available:
 - save history using the local storage
 - handle form events and catch errors
 - implement copy to clipboard
+![Uploading Screenshot (21).png…]()
